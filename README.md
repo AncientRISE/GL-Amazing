@@ -6,7 +6,7 @@
 ✉️: email_id@xxxxx.com 
 &nbsp;&nbsp; 📲 +65-XXXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/garrettleesg/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://https://ancientwisdomsg.wordpress.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://ancientwisdomsg.wordpress.com/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
