@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/AncientRISE/GL-Amazing/main/images/Garrett_Lee-1-Inch-Photo-Trim-Edge.jpg)
 
 <!-- Add your details -->
 
