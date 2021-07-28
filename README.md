@@ -46,7 +46,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 ### EDUCATION
 <!-- Add your details -->
 ##### UNIVERSITY OF DATA SCIENCE & ARTIFICIAL INTELLIGENCE
-Engineering Graduate 2008-11, HONOUR CLASS, First Division
+Mathematics & Software Engineering Graduate 2014-18, HONOUR CLASS, First Division
 
 <!-- EDUCATION Section Ends -->
 
