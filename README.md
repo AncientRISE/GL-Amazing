@@ -49,15 +49,15 @@ Working on various analytics based cases that facilitates clients for next-gener
 Engineering Graduate 2008-11, HONOUR CLASS, First Division
 
 <!-- EDUCATION Section Ends -->
-
+b
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
-[Attended BCG RISE Program](#regression-based-projects) <br>
-[QMDJ Mastery Practitioner](#qmdj mastery practitioner) <br>
+[Attended BCG RISE Program](#attended-bcg-rise-program) <br>
+[QMDJ Mastery Practitioner](#qmdj-mastery-practitioner) <br>
 
 
 
