@@ -4,7 +4,7 @@
 
 <!-- Add your details -->
 ✉️: garrett_rising@xxxxx.com 
-&nbsp;&nbsp; 📲 +65-XXXXXXXXXX
+&nbsp;&nbsp; 📲 +65-XYZXYZAB
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/garrettleesg/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://ancientwisdomsg.wordpress.com/)
 <!-- CONTACT Section Ends -->
