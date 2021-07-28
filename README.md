@@ -35,7 +35,7 @@ I am __Garrett Lee__, a seasoned data scientist with ~10 years of progressive ex
 PARTNER DATA SCIENTIST & STRATEGIST <br>
 April 2018 to Present: 3 year 2 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
+ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant <br>
 UNIT: BCG GAMMA - Rise Stars Group 04
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
