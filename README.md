@@ -89,7 +89,7 @@ SSG UNITED MID-CAREER - Rapid Immersion Skills Enhancement Program : Business an
 #### QMDJ Mastery Practitioner
 ![alt text](https://www.ancientfengshui.com/mainpage3/)
 
-Founder, Main Author, Principal Consultant, Researcher of QMDJ ( Mysterious Gates Escaping Technique ), for more 25 years...  
+Founder, Main Author, Principal Consultant, Researcher of QMDJ ( Mysterious Gates Escaping Technique ), for more than 25 years of field research in metaphysics validity, practical applications to harmonious living, intuitive & subtle influence on the subject matter while in meticulous alignment with the micro and macro environmental synchronicity with time and space parameters and vital energy sphere of auspicious connectivity. ( Garrett Lee )
 
 [Click here to view codebase](https://www.ancientfengshui.com/mainpage3/)
 
