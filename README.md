@@ -1,4 +1,4 @@
-# GL_Amazing
+# gl_Amazing
 <!-- CONTACT Section Starts -->
 ### CONTACT ME - Garrett Lee
 
