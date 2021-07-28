@@ -91,7 +91,7 @@ SSG UNITED MID-CAREER - Rapid Immersion Skills Enhancement Program
 
 Founder, Main Author, Principal Consultant, Researcher of QMDJ ( Mysterious Gates Escaping Technique ), for more 25 years...  
 
-[Click here to view codebase](https://www.ancienrfengshui.com/mainpage3/)
+[Click here to view codebase](https://www.ancientfengshui.com/mainpage3/)
 
 
 <!-- PROJECTS Section Ends -->
@@ -100,7 +100,7 @@ Founder, Main Author, Principal Consultant, Researcher of QMDJ ( Mysterious Gate
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Boston University
+Machine Learning by Boston University, 
 Data Science & Artificial Intelligence by Amazing Scientific University
 
 ##### Achievements
