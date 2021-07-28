@@ -81,7 +81,7 @@ Regression is a supervised learning technique which helps in finding the correla
 #### ATTENDED RISE BCG PROGRAM
 ![alt text](https://www.rise.bcg.com)
 
-SSG UNITED MID-CAREER - Rapid Immersion Skills Enhancement Program : Business and Data Analytics Specialisation
+SSG UNITED MID-CAREER - Rapid Immersive Skills Enhancement Program : Business and Data Analytics Specialisation
 
 [Click here to view codebase](https://www.rise.bcg.com/)
 
