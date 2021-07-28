@@ -105,5 +105,5 @@ Founder, Main Author, Principal Consultant, Researcher of QMDJ ( Mysterious Gate
 * Human-Centered Design by RISE BCG Digital Academy & Consulting Corp.
 
 ##### Achievements
-Star performer of the year at Accenture
+Star performer of RISE BCG Digital Academy :- Distinction Award for Group and Indivdual Category
 <!-- FEATURED Section Ends -->
