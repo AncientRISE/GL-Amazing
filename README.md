@@ -33,10 +33,10 @@ I am __Garrett Lee__, a seasoned data scientist with ~10 years of progressive ex
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
 SENIOR DATA SCIENTIST <br>
-June-2008 to Present: 13 year 10 Months
+April 2018 to Present: 3 year 2 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+UNIT: BCG GAMMA - Rise Stars Group 04
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
@@ -57,6 +57,9 @@ Engineering Graduate 2008-11, HONOUR CLASS, First Division
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
 [Attended BCG RISE Program](#regression-based-projects) <br>
+[Qmdj mastery practitioner](#qmdj mastery practitioner) <br>
+
+
 
 
 <!-- Add your details -->
@@ -77,11 +80,19 @@ Regression is a supervised learning technique which helps in finding the correla
 
 
 #### ATTENDED RISE RISE PROGRAM
-![alt text](https://bcg.com/rise)
+![alt text](https://www.rise.bcg.com)
 
 SSG UNITED MID-CAREER - Rapid Immersion Skills Enhancement Program
 
-[Click here to view codebase](https://bcg.com/)
+[Click here to view codebase](https://www.rise.bcg.com/)
+
+
+#### QMDJ Mastery Practitioner
+![alt text](https://www.ancientfengshui.com/mainpage3/)
+
+Founder, Main Author, Principal Consultant, Researcher of QMDJ ( Mysterious Gates Escaping Technique ), for more 25 years...  
+
+[Click here to view codebase](https://www.ancienrfengshui.com/mainpage3/)
 
 
 <!-- PROJECTS Section Ends -->
