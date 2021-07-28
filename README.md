@@ -49,7 +49,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 Engineering Graduate 2008-11, HONOUR CLASS, First Division
 
 <!-- EDUCATION Section Ends -->
-b
+
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
@@ -100,8 +100,9 @@ Founder, Main Author, Principal Consultant, Researcher of QMDJ ( Mysterious Gate
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Boston University, 
-Data Science & Artificial Intelligence by Amazing Scientific University
+* Machine Learning by Boston University 
+* Data Science & Artificial Intelligence by Georgia Technology University
+* Human-Centered Design by RISE BCG Digital Academy & Consulting Corp.
 
 ##### Achievements
 Star performer of the year at Accenture
