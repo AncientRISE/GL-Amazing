@@ -45,8 +45,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### UNIVERSITY OF DATA SCIENCE & ARTIFICIAL INTELLIGENCE
+Engineering Graduate 2008-11, HONOUR CLASS, First Division
 
 <!-- EDUCATION Section Ends -->
 
@@ -79,7 +79,8 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+Machine Learning by Boston University
+Data Science & Artificial Intelligence by Amazing Scientific University
 
 ##### Achievements
 Star performer of the year at Accenture
