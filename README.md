@@ -1,9 +1,9 @@
-# GL-Amazing
+# GL_Amazing
 <!-- CONTACT Section Starts -->
-### CONTACT
+### CONTACT ME - Garrett Lee
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
+✉️: garrett_rising@xxxxx.com 
 &nbsp;&nbsp; 📲 +65-XXXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/garrettleesg/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://ancientwisdomsg.wordpress.com/)
