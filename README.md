@@ -32,7 +32,7 @@ I am __Garrett Lee__, a seasoned data scientist with ~10 years of progressive ex
 ### EXPERIENCE
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
-SENIOR DATA SCIENTIST <br>
+PARTNER DATA SCIENTIST & STRATEGIST <br>
 April 2018 to Present: 3 year 2 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
@@ -78,10 +78,10 @@ Regression is a supervised learning technique which helps in finding the correla
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 
-#### ATTENDED RISE RISE PROGRAM
+#### ATTENDED RISE BCG PROGRAM
 ![alt text](https://www.rise.bcg.com)
 
-SSG UNITED MID-CAREER - Rapid Immersion Skills Enhancement Program
+SSG UNITED MID-CAREER - Rapid Immersion Skills Enhancement Program : Business and Data Analytics Specialisation
 
 [Click here to view codebase](https://www.rise.bcg.com/)
 
@@ -105,5 +105,5 @@ Founder, Main Author, Principal Consultant, Researcher of QMDJ ( Mysterious Gate
 * Human-Centered Design by RISE BCG Digital Academy & Consulting Corp.
 
 ##### Achievements
-Star performer of RISE BCG Digital Academy :- Distinction Award for Group and Indivdual Category
+Star performer of RISE BCG Digital Academy :- Distinction Award for Group and Individual Category
 <!-- FEATURED Section Ends -->
