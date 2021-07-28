@@ -57,8 +57,7 @@ Engineering Graduate 2008-11, HONOUR CLASS, First Division
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
 [Attended BCG RISE Program](#regression-based-projects) <br>
-[Qmdj mastery practitioner](#qmdj mastery practitioner) <br>
-
+[QMDJ Mastery Practitioner](#qmdj mastery practitioner) <br>
 
 
 
