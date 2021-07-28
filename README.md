@@ -56,7 +56,8 @@ Engineering Graduate 2008-11, HONOUR CLASS, First Division
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
-[Attended BCG RISE Program](#Attend BCG RISE PROGRAM) <br>
+[Attended BCG RISE Program](#regression-based-projects) <br>
+
 
 <!-- Add your details -->
 
@@ -77,10 +78,11 @@ Regression is a supervised learning technique which helps in finding the correla
 
 #### ATTENDED RISE RISE PROGRAM
 ![alt text](https://bcg.com/rise)
-[Click here to view codebase](https://bcg.com/)
-
 
 SSG UNITED MID-CAREER - Rapid Immersion Skills Enhancement Program
+
+[Click here to view codebase](https://bcg.com/)
+
 
 <!-- PROJECTS Section Ends -->
 
