@@ -56,6 +56,7 @@ Engineering Graduate 2008-11, HONOUR CLASS, First Division
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
+[ATTENDED BCG RISE PRORGRAM](#Attend BCG RISE PROGRAM) <br>
 
 <!-- Add your details -->
 
@@ -72,6 +73,12 @@ In machine learning, classification refers to a predictive modeling problem wher
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+
+
+#### ATTENDED RISE RISE PROGRAM
+![alt text](https://bcg.com/rise)
+
+SSG UNITED MID-CAREER - Rapid Immersion Skills Enhancement Program
 
 <!-- PROJECTS Section Ends -->
 
