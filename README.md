@@ -10,7 +10,7 @@
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
-### ABOUT
+### ABOUT ME
 <!-- Add link to your picture -->
 
 ![alt text](https://raw.githubusercontent.com/AncientRISE/GL-Amazing/main/images/Garrett_Lee-1-Inch-Photo-Trim-Edge.jpg)
