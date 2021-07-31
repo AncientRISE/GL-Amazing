@@ -96,6 +96,7 @@ Founder, Main Author, Principal Consultant, Lead Researcher, Master Trainer of Q
 
 <!-- PROJECTS Section Ends -->
 
+
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
