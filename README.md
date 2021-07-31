@@ -89,7 +89,7 @@ RISE By DIGITAL BOSTON CONSULTING GROUP ACADEMY
 
 
 #### QMDJ Mastery Practitioner
-![alt text](https://www.ancientfengshui.com/mainpage3/home)
+![alt text](https://raw.githubusercontent.com/AncientRISE/gl_Amazing/main/images/QMDJ-BookCover-Front-Side.jpg)
 
 Founder, Main Author, Principal Consultant, Lead Researcher, Master Trainer of QMDJ (Mysterious Gates Escaping Technique), for more than 25 years of field research in metaphysics validity, practical applications to harmonious living, intuitive & subtle influence on the subject matter while in meticulous alignment with the micro and macro environmental synchronicity with time and space parameters and vital energy sphere of auspicious connectivity. ( Garrett Lee )
 
